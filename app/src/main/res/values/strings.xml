@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="show">SHOW</string>
+    <string name="hint_message">Write the message</string>
+</resources>
